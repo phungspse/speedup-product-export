@@ -2,7 +2,7 @@
   "name": "phungspse/speedup-product-export",
   "description": "this is just a small trick, we will remove unused product types from list of export product types.",
   "type": "magento2-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "proprietary",
   "authors": [
     {
