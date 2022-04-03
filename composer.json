@@ -1,0 +1,28 @@
+{
+  "name": "phungspse/speedup-product-export",
+  "description": "this is just a small trick, we will remove unused product types from list of export product types.",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Phung Duong",
+      "email": "phungspse@gmail.com"
+    },
+    {
+      "name": "Phung Duong",
+      "email": "phung1470@gmail.com"
+    }
+  ],
+  "require": {
+    "phungspse/base": "^1.0.0"
+  },
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "PhungSpse\\SpeedupProductExport\\": ""
+    }
+  }
+}
