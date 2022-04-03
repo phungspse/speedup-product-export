@@ -8,4 +8,4 @@ this is just a small trick, we will remove unused product types from list of exp
 
 2. SPEEDUP EXPORT PRODUCT
 - Enable Speedup Export Product Process
-goto admin > stores > configuration > PHUNG SPSE > Speedup Export Product > General > Enable Speedup Export Product Process
+- goto admin > stores > configuration > PHUNG SPSE > Speedup Export Product > General > Enable Speedup Export Product Process
