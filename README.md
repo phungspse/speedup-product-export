@@ -4,7 +4,7 @@ this is just a small trick, we will remove unused product types from list of exp
 1. EXPORT COMMAND
 - run queue message export by command
 - get {{queue message id}} from table queue_message
-bin/magento phung-spse:export:manual-export -m {{queue message id}}
+- bin/magento phung-spse:export:manual-export -m {{queue message id}}
 
 2. SPEEDUP EXPORT PRODUCT
 - Enable Speedup Export Product Process
